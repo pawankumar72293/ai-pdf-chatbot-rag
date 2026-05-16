@@ -2,8 +2,6 @@ venv/
 .env
 __pycache__/
 *.pyc
-data/
-!data/.gitkeep
-*.pdf
+data/*.pdf
 vector_db/
 .streamlit/
